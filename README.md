@@ -1,6 +1,8 @@
 # 智能消息助手 (AutoWe)  wechatbot
 
 一个基于WPF的智能消息自动回复助手，支持多窗口操作、图片匹配、OCR识别和AI智能回复。
+![image](https://github.com/user-attachments/assets/7c17d81b-ac08-40fb-aa75-30d7dda2a308)
+
 
 ## ✨ 功能特性
 
